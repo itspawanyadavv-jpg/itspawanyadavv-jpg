@@ -1,6 +1,6 @@
 ![Logo](https://github.com/itspawanyadavv-jpg/itspawanyadavv-jpg/blob/main/Pawan%20yadav%20(2).png)
 <h1 align="center">Hi 👋, I'm Pawan Yadav</h1>
-<h3 align="center">Java Backend Developer | Spring Boot Enthusiast | DSA Learner</h3>
+<h3 align="center">Java Backend Developer | Spring Boot | DSA </h3>
 
 <img align="right" alt="Coding" width="400"
 src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyZWxkYndyZGF0ZmE2emJkZnM2OHExbWw2ZWs3cTQydmtndTB5ZGxqcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jTNG3RF6EwbkpD4LZx/giphy.gif">

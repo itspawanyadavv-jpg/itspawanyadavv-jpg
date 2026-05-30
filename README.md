@@ -17,7 +17,8 @@ src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyZWxkYndyZGF0ZmE2emJkZnM2O
 - 🌱 Exploring **Microservices, Docker, Kubernetes & Cloud**
 - 💬 Ask me about **Java, Spring Boot, DSA, Backend Development**
 - 📫 Reach me at: **itspawanyadavv@gmail.com**
-- ⚡ Fun fact: I enjoy solving coding problems and building backend systems
+- ⚡ Fun fact: ☕ I believe every bug can be solved with enough coffee and debugging.
+
 
 ---
 

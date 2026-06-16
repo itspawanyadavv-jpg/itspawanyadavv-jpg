@@ -1,4 +1,4 @@
-![Logo](https://github.com/itspawanyadavv-jpg/itspawanyadavv-jpg/blob/main/Pawan%20yadav%20(5).png)
+![Logo](https://github.com/itspawanyadavv-jpg/itspawanyadavv-jpg/blob/main/PAWAN%20YADAV%20(5).png)
 <h1 align="center">Hi 👋, I'm Pawan Yadav</h1>
 <h3 align="center">Java Backend Developer | Spring Boot | DSA </h3>
 

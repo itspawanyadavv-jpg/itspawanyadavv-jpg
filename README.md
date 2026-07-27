@@ -9,12 +9,8 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 <!-- Banner -->
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2RzcjdubGdqbXpkMmg5aXB6cjQ0eWVxc2djdGo4d2U1dGVmejQ2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jTNG3RF6EwbkpD4LZx/giphy.gif" width="100%"/>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHJncWxqcWF1a3hhMTFyMmM5bTg3OGh6bWYxbnVqaGE2MHNqa3dkaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jTNG3RF6EwbkpD4LZx/giphy.gif" width="100%"/>
 
-<!-- Logo -->
-<!-- <p align="center">
-  <img src="https://github.com/itspawanyadavv-jpg/itspawanyadavv-jpg/blob/main/PAWAN%20YADAV%20(5).png" width="160" style="border-radius:50%;">
-</p> -->
 
 <!-- Greeting -->
 <h3 align="center">
@@ -101,24 +97,11 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
-### 🐍 Contribution Snake
+### 🐍 Let the Snake eat my Contributions
 
 <p align="center">
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/itspawanyadavv-jpg/itspawanyadavv-jpg/output/github-contribution-grid-snake-dark.svg" />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/itspawanyadavv-jpg/itspawanyadavv-jpg/output/github-contribution-grid-snake.svg" />
-  <img
-    alt="Snake animation"
-    src="https://raw.githubusercontent.com/itspawanyadavv-jpg/itspawanyadavv-jpg/output/github-contribution-grid-snake.svg" />
-</picture>
+  <img src="https://raw.githubusercontent.com/itspawanyadavv-jpg/itspawanyadavv-jpg/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
-
-  
-</picture>
 
 > ℹ️ To activate this, add the [snake-generator GitHub Action](https://github.com/Platane/snk) to this repo so it builds the `output` branch automatically.
 

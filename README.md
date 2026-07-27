@@ -106,6 +106,9 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/itspawanyadavv-jpg/itspawanyadavv-jpg/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
+## 👾 Pac-Man Contributions
+
+![Pac-Man](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/pacman-contribution-graph.svg)
 
 > ℹ️ To activate this, add the [snake-generator GitHub Action](https://github.com/Platane/snk) to this repo so it builds the `output` branch automatically.
 

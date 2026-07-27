@@ -1,12 +1,26 @@
-<h1 align="center">Hi 👋, I'm Pawan Yadav</h1>
-<h3 align="center">Java Backend Developer | Spring Boot | DSA</h3>
+<!-- Wave divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyZWxkYndyZGF0ZmE2emJkZnM2OHExbWw2ZWs3cTQydmtndTB5ZGxqcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jTNG3RF6EwbkpD4LZx/giphy.gif">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Pawan%20Yadav&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Java%20Backend%20Developer%20%7C%20Spring%20Boot%20%7C%20DSA&descSize=18&descAlignY=55" width="100%"/>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
+<!-- Banner -->
+<img src="https://i.pinimg.com/originals/b3/26/51/b326517cd8ca44b939a1bee41a7f103c.gif" width="100%"/>
 
 <!-- Logo -->
-<p align="left">
+<!-- <p align="center">
   <img src="https://github.com/itspawanyadavv-jpg/itspawanyadavv-jpg/blob/main/PAWAN%20YADAV%20(5).png" width="160" style="border-radius:50%;">
-</p>
+</p> -->
+
+<!-- Greeting -->
+<h3 align="center">
+  Hello Fellow &lt;Coders /&gt;! 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
+</h3>
 
 <!-- Profile Views -->
 <p align="center">

@@ -1,12 +1,37 @@
-![Logo](https://github.com/itspawanyadavv-jpg/itspawanyadavv-jpg/blob/main/PAWAN%20YADAV%20(5).png)
-<h1 align="center">Hi 👋, I'm Pawan Yadav</h1>
-<h3 align="center">Java Backend Developer | Spring Boot | DSA </h3>
+<!-- Wave divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
-<img align="right" alt="Coding" width="400"
-src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyZWxkYndyZGF0ZmE2emJkZnM2OHExbWw2ZWs3cTQydmtndTB5ZGxqcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jTNG3RF6EwbkpD4LZx/giphy.gif">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Pawan%20Yadav&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Java%20Backend%20Developer%20%7C%20Spring%20Boot%20%7C%20DSA&descSize=18&descAlignY=55" width="100%"/>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=itspawanyadavv-jpg&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
+
+<!-- Logo -->
+<p align="center">
+  <img src="https://github.com/itspawanyadavv-jpg/itspawanyadavv-jpg/blob/main/PAWAN%20YADAV%20(5).png" width="160" style="border-radius:50%;">
+</p>
+
+<!-- Greeting -->
+<h3 align="center">
+  Hello Fellow &lt;Coders /&gt;! 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
+</h3>
+
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=itspawanyadavv-jpg&label=Profile%20views&style=for-the-badge&color=0e75b6" alt="Profile Views">
+</p>
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&center=true&vCenter=true&duration=3500&color=38C2FF&size=30&height=100&width=820&lines=Heyyy!+I'm+Pawan+Yadav;Java+Backend+Developer;Spring+Boot+%7C+DSA+%7C+Backend+Development;Building+Microservices%2C+Docker+%26+Cloud;Every+bug+can+be+solved+with+enough+coffee+%E2%98%95">
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
 ---
@@ -19,88 +44,107 @@ src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyZWxkYndyZGF0ZmE2emJkZnM2O
 - 📫 Reach me at: **itspawanyadavv@gmail.com**
 - ⚡ Fun fact: ☕ I believe every bug can be solved with enough coffee and debugging.
 
-
----
-
-### 🌐 Connect With Me
-
-<p align="left">
-<a href="https://x.com/itspawanyadavv" target="blank">
-<img align="center"
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-alt="Twitter" height="30" width="40" />
-</a>
-
-<a href="https://www.instagram.com/thedevshows/" target="blank">
-<img align="center"
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-alt="Instagram" height="30" width="40" />
-</a>
-
-<a href="https://www.linkedin.com/" target="blank">
-<img align="center"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-alt="LinkedIn" height="30" width="40" />
-</a>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
----
+### 📈 Contribution Statistics
 
-### 🚀 Languages and Tools
-
-<p align="left">
-<a href="https://www.java.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-</a>
-
-<a href="https://spring.io/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</a>
-
-<a href="https://www.docker.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-</a>
-
-<a href="https://kubernetes.io/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-</a>
-
-<a href="https://aws.amazon.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-</a>
-
-<a href="https://reactjs.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-</a>
-
-<a href="https://postman.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-</a>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=itspawanyadavv-jpg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=itspawanyadavv-jpg&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p>
-<img align="left"
-src="https://github-readme-stats.vercel.app/api/top-langs?username=itspawanyadavv-jpg&show_icons=true&locale=en&layout=compact"
-alt="top languages" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itspawanyadavv-jpg&theme=tokyo-night&hide_border=true" width="100%" />
 </p>
 
-<p>
-<img align="center"
-src="https://github-readme-stats.vercel.app/api?username=itspawanyadavv-jpg&show_icons=true&locale=en"
-alt="github stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itspawanyadavv-jpg&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
-<p>
-<img align="center"
-src="https://github-readme-streak-stats.herokuapp.com/?user=itspawanyadavv-jpg"
-alt="streak stats" />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
+### 🚀 Languages & Tools
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="55"/>
+  &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="55"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="55"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="55"/>
+  &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="55"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="55"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="55"/>
+  &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="55"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="55"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="55"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="55"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="55"/>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
+
+### 🐍 Let the Snake eat my Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/itspawanyadavv-jpg/itspawanyadavv-jpg/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+> ℹ️ To activate this, add the [snake-generator GitHub Action](https://github.com/Platane/snk) to this repo so it builds the `output` branch automatically.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
+
+### 📬 Connect With Me
+
+<p align="center">
+  <i>Always open to interesting conversations, collaborations, or just a good chat!</i>
+</p>
+
+<p align="center">
+  <a href="https://x.com/itspawanyadavv" target="_blank">
+    <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/thedevshows/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:itspawanyadavv@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
+
+### 💭 Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>

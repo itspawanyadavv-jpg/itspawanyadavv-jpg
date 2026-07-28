@@ -103,7 +103,6 @@
   <img src="https://raw.githubusercontent.com/itspawanyadavv-jpg/itspawanyadavv-jpg/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
-> ℹ️ To activate this, add the [snake-generator GitHub Action](https://github.com/Platane/snk) to this repo so it builds the `output` branch automatically.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

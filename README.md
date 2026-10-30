@@ -36,10 +36,6 @@
 
 ### 👨‍💻 About Me
 
-### 👋 Hi, I'm Pawan Yadav
-
-**Java Developer | Java • Spring Boot • Microservices | Exploring AI-powered backend systems**
-
 #### 🔭 What I'm Working On
 
 * 🛠️ Building REST APIs and real-world backend projects with **Java & Spring Boot**

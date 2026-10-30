@@ -36,13 +36,34 @@
 
 ### 👨‍💻 About Me
 
-🔭 Building backend applications using Java, Spring Boot & REST APIs
-🌱 Exploring Microservices, System Design, Docker, Kubernetes & AWS
-🤖 Interested in integrating AI into Backend Engineering using Spring AI and LLMs
-💻 Practicing Data Structures & Algorithms to strengthen problem-solving skills
-💬 Happy to discuss Java, Spring Boot, Backend Development, DSA & System Design
-🚀 Building real-world projects focused on scalability, performance & reliability
-📫 Reach me at: [itspawanyadavv@gmail.com]
+### 👋 Hi, I'm Pawan Yadav
+
+**Java Developer | Java • Spring Boot • Microservices | Exploring AI-powered backend systems**
+
+#### 🔭 What I'm Working On
+
+* 🛠️ Building REST APIs and real-world backend projects with **Java & Spring Boot**
+* 🤖 Integrating AI into backend engineering using **Spring AI & LLMs**
+* 💻 Sharpening problem-solving through **Data Structures & Algorithms**
+
+#### 🌱 What I'm Exploring
+
+* 🧩 **Microservices** and **System Design**
+* ☁️ **Docker, Kubernetes & AWS**
+
+#### 💬 Ask Me About
+
+* Java
+* Spring Boot
+* Backend Development
+* DSA
+* System Design
+
+#### 📫 Let's Connect
+
+* [itspawanyadavv@gmail.com](mailto:itspawanyadavv@gmail.com)
+
+> ⚡ **Fun fact:** One bug and one cup of coffee at a time, I turn complex problems into simple solutions. ☕
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

@@ -36,11 +36,13 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently learning and building projects using **Java & Spring Boot**
-- 🌱 Exploring **Microservices, Docker, Kubernetes & Cloud**
-- 💬 Ask me about **Java, Spring Boot, DSA, Backend Development**
-- 📫 Reach me at: **itspawanyadavv@gmail.com**
-- ⚡ Fun fact: ☕ I believe every bug can be solved with enough coffee and debugging.
+🔭 Building backend applications using Java, Spring Boot & REST APIs
+🌱 Exploring Microservices, System Design, Docker, Kubernetes & AWS
+🤖 Interested in integrating AI into Backend Engineering using Spring AI and LLMs
+💻 Practicing Data Structures & Algorithms to strengthen problem-solving skills
+💬 Happy to discuss Java, Spring Boot, Backend Development, DSA & System Design
+🚀 Building real-world projects focused on scalability, performance & reliability
+📫 Reach me at: [itspawanyadavv@gmail.com]
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
